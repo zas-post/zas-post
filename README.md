@@ -4,18 +4,18 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azabolev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&style=flat" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=flat" alt="Twitter Badge"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zas-post&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=zas-post&style=flat&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
