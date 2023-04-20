@@ -14,7 +14,7 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=zas-post&style=flat&color=blue" alt=""/>
-
+  
   <h1>
     Hi there, I'm <a href="https://zas-post.github.io/zas-post-cv-template" target="_blank">Alexander</a>
      <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -69,3 +69,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
   - :link: [Helpful Articles](links.md)
+
+---
+
+### :100: Achievement :
+
+[![codewars](https://www.codewars.com/users/zas.codewars/badges/micro)](https://www.codewars.com/users/zas.codewars)   
