@@ -5,5 +5,5 @@
 ## Здесь буду публиковать полезные ссылки
 
 :fire: ***Тренажёры :***<br>
-  - :link: [Git](https://githowto.com/ru)
-  - :link: [SQL](https://sql-academy.org/ru)
+  - :link: [Git (Git How To)](https://githowto.com/ru)
+  - :link: [SQL (SQL Academy)](https://sql-academy.org/ru)
