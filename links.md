@@ -4,6 +4,9 @@
 
 ## Здесь буду публиковать полезные ссылки
 
-:fire: ***Тренажёры :***<br>
+:world_map: ***Rad Map :***
+  - :link: [RoadMap для изучения Python](https://pymentor.org/)
+
+:fire: ***Тренажёры :***
   - :link: [Git (Git How To)](https://githowto.com/ru)
   - :link: [SQL (SQL Academy)](https://sql-academy.org/ru)
