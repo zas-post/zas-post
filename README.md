@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="./assets/coding_from_home.gif" width="100"/>
   
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/azabolev/" target="_blank">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="./assets/desctop_comp.gif" width="600" height="300"/>
 </div>
 
 ---
