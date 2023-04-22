@@ -75,4 +75,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :100: Achievement :
 
-[![codewars](https://www.codewars.com/users/zas.codewars/badges/micro)](https://www.codewars.com/users/zas.codewars)   
+[![codewars](https://www.codewars.com/users/zas.codewars/badges/micro)](https://www.codewars.com/users/zas.codewars)
+
+---
+
+
+<div id="footer" align="center">
+  <h5>Made with :hearts: by Alexander</h5>
+  <h6>2023</h6>
+</div>
