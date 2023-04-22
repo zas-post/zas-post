@@ -58,13 +58,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zas-post&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zas-post&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zas-post&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+<div id="statictic" align="center">
+  <a href="https://github.com/zas-post">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zas-post&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zas-post&layout=compact&langs_count=8&theme=vue-dark"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=zas-post&theme=vue-dark"/>
+  </a>
+</div>
 
 ---
 
