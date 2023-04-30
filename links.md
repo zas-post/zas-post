@@ -6,6 +6,7 @@
 
 :world_map: ***Rad Map :***
   - :link: [RoadMap для изучения Python](https://pymentor.org/)
+  - :link: [RoadMap.sh](https://roadmap.sh/)
 
 :open_book: ***Documentation :***
   - :link: [Website about programming (Different programming languages)](https://metanit.com/)
