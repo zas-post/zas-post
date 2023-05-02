@@ -15,6 +15,7 @@
   - :link: [Самоучитель по Python (Proglib)](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-1-osobennosti-sfery-primeneniya-ustanovka-onlayn-ide-2022-09-26)
   - :link: [More Python (yuripetrov.ru)](https://www.yuripetrov.ru/edu/python/index.html)
   - :link: [Документация для разработчиков на человеческом языке](https://doka.guide/)
+  - :link: [Can I Use](https://caniuse.com/)
 
 :fire: ***Тренажёры :***
   - :link: [Git (Git How To)](https://githowto.com/ru)
