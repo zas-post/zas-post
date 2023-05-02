@@ -14,6 +14,7 @@
   - :link: [Python-100 дней от новичка до мастера](https://github.com/BEPb/Python-100-days)
   - :link: [Самоучитель по Python (Proglib)](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-1-osobennosti-sfery-primeneniya-ustanovka-onlayn-ide-2022-09-26)
   - :link: [More Python (yuripetrov.ru)](https://www.yuripetrov.ru/edu/python/index.html)
+  - :link: [Документация для разработчиков на человеческом языке](https://doka.guide/)
 
 :fire: ***Тренажёры :***
   - :link: [Git (Git How To)](https://githowto.com/ru)
