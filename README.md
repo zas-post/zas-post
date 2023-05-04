@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 
 I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m currently working in the field of cloud technologies..
+- :telescope: I’m currently working in the field of cloud technologies.
 
 - :seedling: Exploring Technical Content Writing.
 
