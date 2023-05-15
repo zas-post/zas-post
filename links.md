@@ -20,6 +20,7 @@
 :fire: ***Тренажёры :***
   - :link: [Git (Git How To)](https://githowto.com/ru)
   - :link: [SQL (SQL Academy)](https://sql-academy.org/ru)
+  - :link: [SQL (Упражнения по SQL)](https://www.sql-ex.ru/)
 
 :gift: ***Cheatsheets :***
   - :link: [Rico's cheatsheets](https://devhints.io/)
