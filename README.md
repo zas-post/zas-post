@@ -84,5 +84,5 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 <div id="footer" align="center">
   <h5>Made with :hearts: by Alexander</h5>
-  <h6>:copyright: 2023</h6>
+  <h6>:copyright: 2023 from 2023 to present...</h6>
 </div>
