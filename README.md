@@ -58,7 +58,7 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 <div id="statictic" align="center">
   <a href="https://github.com/zas-post">
@@ -70,12 +70,12 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts :
   - :link: [Helpful Articles](links.md)
 
 ---
 
-### :100: Achievement :
+### 💯 Achievement :
 
 [![codewars](https://www.codewars.com/users/zas.codewars/badges/micro)](https://www.codewars.com/users/zas.codewars)
 
