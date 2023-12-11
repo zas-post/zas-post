@@ -37,7 +37,7 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I study the Python programming language and its frameworks.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azabolev/)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azabolev/)
   
 ---
 
