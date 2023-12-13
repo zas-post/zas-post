@@ -24,3 +24,4 @@
 
 :gift: ***Cheatsheets :***
   - :link: [Rico's cheatsheets](https://devhints.io/)
+  - :link: [Collecting All Cheat Sheets](https://overapi.com/)
