@@ -21,6 +21,8 @@
   - :link: [Git (Git How To)](https://githowto.com/ru)
   - :link: [SQL (SQL Academy)](https://sql-academy.org/ru)
   - :link: [SQL (Упражнения по SQL)](https://www.sql-ex.ru/)
+  - 🔗 [Pairwise (WEB tools)](https://pairwise.teremokgames.com/)
+  - 🔗 [Pairwise Testing (All Tppls)](https://www.pairwise.org/tools.html)
 
 :gift: ***Cheatsheets :***
   - :link: [Rico's cheatsheets](https://devhints.io/)
