@@ -65,7 +65,7 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zas-post&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zas-post&layout=compact&langs_count=8&theme=vue-dark"/>
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=zas-post&theme=vue-dark"/>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zas-post&theme=vue-dark" alt="GitHub Streak" /></a>
+    <img src="https://streak-stats.demolab.com?user=zas-post&theme=vue-dark" alt="GitHub Streak" /></a>
   </a>
 </div>
 
